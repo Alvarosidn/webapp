@@ -1,0 +1,22 @@
+{
+  "name": "webapp",
+  "version": "0.0.1",
+  "description": "Plantilla para hacer aplicaciones web",
+  "main": "index.html",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alvarosidn/webapp.git"
+  },
+  "keywords": [
+    "webapp",
+    "gulp",
+    "sass",
+    "jade"
+  ],
+  "author": "Álvaro Martínez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alvarosidn/webapp/issues"
+  },
+  "homepage": "https://github.com/Alvarosidn/webapp#readme"
+}
